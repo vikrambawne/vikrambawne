@@ -1,6 +1,6 @@
 # Hi, I'm Vikram 👋
 
-### Technical Architect | Full Stack Developer | Team Lead
+### Technical Architect | Full Stack Developer | Team Lead | System Design
 
 I am a hands-on Technical Architect with 10+ years of experience building scalable web applications and backend systems.
 
