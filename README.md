@@ -1,4 +1,4 @@
-# Hi, I'm Vikram 👋
+# Hi, I'm Vikram Bawane 👋
 
 ### Technical Architect | System Design | Full Stack Developer | Team Lead
 
